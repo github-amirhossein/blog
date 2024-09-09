@@ -1,6 +1,6 @@
 برای شروع ابتدا npx json-server --watch data/db.json --port 8000
 
-و سپس npm run start را وارد کنید
+و سپس npm run start را در terminal وارد کنید
 
 
 
