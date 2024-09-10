@@ -1,0 +1,26 @@
+{
+    "articles":{
+        "massege":"sucsez",
+        "status":true,
+        "data":[
+            {
+                "id":1,
+                "image":"https://static.vecteezy.com/system/resources/thumbnails/036/196/144/small_2x/ai-generated-computer-monitor-on-the-table-in-a-dark-room-with-neon-lights-computer-gaming-pc-on-a-video-game-table-in-a-dark-room-with-neon-light-ai-generated-free-photo.jpg",
+                "title":"عنوان 1",
+                "reading": 5
+            },
+            {
+                "id":2,
+                "image":"https://t3.ftcdn.net/jpg/06/87/41/16/360_F_687411660_xuaFcUmE9ia14RIbxjP518if6eF8lLGV.jpg",
+                "title":"عنوان 2",
+                "reading": 2
+            },
+            {
+              "id":3,
+              "image":"https://t3.ftcdn.net/jpg/02/74/38/28/360_F_274382882_kygWBxnBYzrcNQ6FvsRaEvMWrqdiUB35.jpg",
+              "title":"عنوان 3",
+              "reading": 3
+          }
+        ]
+    }
+}
